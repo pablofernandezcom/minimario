@@ -1,5 +1,10 @@
 from Vector import *
 
+"""
+Ball Class
+Defines Ball and sets up properties, physics, and collisions
+"""
+
 class Ball:
     def __init__(self,x,y,vx,vy):
         self.pos = Vector(x,y)

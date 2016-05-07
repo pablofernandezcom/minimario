@@ -1,8 +1,8 @@
 """
-H11
-By Tyler & Pablo
-Welcome to our game
+Pablo Fernandez
+Mario MiniGame
 ------------------------
+
 Instructions:
 Press A to drop a ball into the game. Be careful, you are limited to 40 balls, 
 and limited to 4 bounce bricks on the bottom 60% of the screen. Click on the 
@@ -18,7 +18,7 @@ Newly Added:
     Star: Hit the flying star with a ball and you will win a point. 
 
 A&B: Randomly Moving Target, Obstacle Physics
-Balls disappear after a while to prevent overloading anything
+Balls disappear after a while to prevent overloading 
 """
 
 from Ball import *

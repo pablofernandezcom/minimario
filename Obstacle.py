@@ -1,5 +1,10 @@
 from Vector import *
 
+"""
+Obstacle Class
+Defines Obstacle and sets up properties, physics, and collisions
+"""
+
 class Obstacle:
     def __init__(self,x,y,vx,vy):
         self.pos = Vector(x,y)

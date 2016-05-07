@@ -1,4 +1,9 @@
 class Target:
+"""
+Target Class
+Defines the star, which is the objective of the game
+"""
+
     def __init__(self,x,y):
         self.x = x
         self.y = y
